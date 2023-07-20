@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
+* Email: [wjlzhangyu@gmail.com](wjlzhangyu@gmail.com)
+* Call: [+86 13905177661]()
 ---
 
 ## Social
 
-1. [Facebook](#)
+1. [Github](https://github.com/Sp1c4)
 2. [Twitter](#)
-3. [Google+](#)
+
+---
+*If you have questions, feel free to contact me!*
