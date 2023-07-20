@@ -13,7 +13,7 @@ I'm gonna join [CARAS Lab](https://titech-caras.github.io/), Department of Infor
 
 ## Research Interest
 
-I have some experience on FPGA and SoC design. Interest in designing hardware lead my continuous learning and exploration on general architecture. My future research will focus on **computer architecture**.
+I have some experience on FPGA and SoC design. Interest in hardware designing lead my continuous learning and exploration in hardware architecture. My future research will focus on **computer architecture**.
 
 
 ## Publications
@@ -21,8 +21,8 @@ I have some experience on FPGA and SoC design. Interest in designing hardware le
 Non currently. Hope this guy can be creative later.
 
 ---
-Thank you for visiting my website. You can find my CV and contact in the upper right corner.
 
-> Change
+
+> Thank you for visiting my website. You can find my CV and contact in the upper right corner.
 
 

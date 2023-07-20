@@ -4,7 +4,9 @@ is_contact: true
 ---
 
 * Email: [wjlzhangyu@gmail.com](wjlzhangyu@gmail.com)
-* Call: [+86 13905177661]()
+
+* Call: [+86 13905177661](#)
+
 ---
 
 ## Social
