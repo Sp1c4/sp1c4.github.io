@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi, I'm Jinlin Wu. I got my bachelor's degree from University of Electronic Science and Technology of China. 
+Hi, I'm Jinlin Wu.
 
-I'm currently a 2-year master student of [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology.
+I'm currently a 2nd year master student of [CARAS Lab](https://titech-caras.github.io/) of Institute of Science Tokyo. I got my bachelor's degree from University of Electronic Science and Technology of China in 2023. 
 
 ## Research Interest
 
