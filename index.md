@@ -6,23 +6,21 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi, I'm Jinlin Wu. I got my bachelor's degree from University of Electronic Science and Technology of China in 2023. I studied intergrated circuit&system there and mainly focused on digital circuit.
+Hi, I'm Jinlin Wu. I got my bachelor's degree from University of Electronic Science and Technology of China. 
 
-I'm gonna join [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology as a master student on Sep. 2023. 
-
+I'm currently a 2-year master student of [CARAS Lab](https://titech-caras.github.io/), Department of Information and Communications Engineering, Tokyo Institute of Technology.
 
 ## Research Interest
 
-I have some experience on FPGA and SoC design. Interest in hardware designing lead my continuous learning and exploration in hardware architecture. So my future research field in Tokyo Tech will be **computer architecture**.
+My research interest includes **cpu microarchitecture**, **software-hardware co-design**, **memory system**. I'm willing to try topics from various fields.
 
 
 ## Publications
 
-Non currently. Hope this guy can be creative later.
+Pray for acceptence...
 
 ---
 
 
-> Thank you for visiting my website. You can find my CV (PDF) and contact me in the upper right corner.
-
+> Thank you for visiting my website. 
 
